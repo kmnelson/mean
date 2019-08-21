@@ -6,3 +6,4 @@ def b(x):
 
 def c(x):
     return b(a(x))
+
