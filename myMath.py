@@ -1,6 +1,5 @@
 
 from math import sqrt, log
-from contracts import contract, new_contract
 
 def mean(num_list):
     assert isinstance(num_list, (list, tuple))
